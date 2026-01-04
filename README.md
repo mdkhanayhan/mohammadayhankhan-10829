@@ -50,9 +50,9 @@ This project demonstrates the use of nested loops in the C programming language 
 ## Output Screenshot
 
 ### Sample Outputs
-<img width="329" height="89" src="https://instasize.com/p/7bea75a21525129df5fcbbbd15e5ae67a3c502490d275651443f8342d6f04cca" />
-<img width="339" height="86" src="https://instasize.com/p/37260db6170b6e5af5de72c992637774187dabe28c72ca35b74eb732aa55acd3" />
-<img width="317" height="88" src="https://instasize.com/p/2a2269e60212dab0aaf6aa7c7c548b978e9e4b94b60a096792bf41918e0fcc53" />
+<img width="329" height="89" src="[url=https://postimg.cc/bsLYmcCt][img]https://i.postimg.cc/bsLYmcCt/Screenshot-2026-01-04-at-4-07-01-PM.png[/img][/url]" />
+<img width="339" height="86" src="[url=https://postimg.cc/bsLYmcCt][img]https://i.postimg.cc/bsLYmcCt/Screenshot-2026-01-04-at-4-07-01-PM.png[/img][/url]" />
+<img width="317" height="88" src="[url=https://postimg.cc/4mw4WkLh][img]https://i.postimg.cc/4mw4WkLh/Screenshot-2026-01-04-at-4-07-43-PM.png[/img]" />
 
 ---
 
