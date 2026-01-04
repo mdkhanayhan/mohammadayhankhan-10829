@@ -7,23 +7,9 @@
 
 ---
 
-## Project Title
-**Pattern Logic Tool**
-
----
-
 ## Aim of the Project
+
 The aim of this project is to create a Pattern Logic Tool that prints number patterns based on user input using nested loops, without requiring any additional storage.
-
----
-
-## Description
-This project demonstrates the use of nested loops in the C programming language to generate numeric patterns. The program takes the number of rows as input from the user and prints a number pattern accordingly. No arrays or extra memory are used.
-
----
-
-## Pattern Type
-- Numeric Patterns
 
 ---
 
@@ -34,25 +20,21 @@ This project demonstrates the use of nested loops in the C programming language 
 
 ---
 
-## Algorithm / Steps
-1. Decide the number of rows to be printed.
-2. Take the number of rows as input from the user.
-3. Use an outer loop to control the rows.
-4. Use an inner loop to control the columns.
-5. Use the loop counter to decide which number to print.
-6. Print numbers inside the inner loop.
-7. After each row, move to the next line.
-8. Repeat the inner loop for every row.
-9. Continue until all rows are printed.
-10. No array or extra storage is required.
+## Pattern Type
+- Numeric Pattern using Nested Loops
 
 ---
-## Output Screenshot
 
-### Sample Outputs
-<img width="329" height="89" src="[url=https://postimg.cc/bsLYmcCt][img]https://i.postimg.cc/bsLYmcCt/Screenshot-2026-01-04-at-4-07-01-PM.png[/img][/url]" />
-<img width="339" height="86" src="[url=https://postimg.cc/bsLYmcCt][img]https://i.postimg.cc/bsLYmcCt/Screenshot-2026-01-04-at-4-07-01-PM.png[/img][/url]" />
-<img width="317" height="88" src="[url=https://postimg.cc/4mw4WkLh][img]https://i.postimg.cc/4mw4WkLh/Screenshot-2026-01-04-at-4-07-43-PM.png[/img]" />
+## Output Screenshots
+
+### Output for 3 Rows
+![Output for 3 Rows](screenshots/output_rows_3.png)
+
+### Output for 4 Rows
+![Output for 4 Rows](screenshots/output_rows_4.png)
+
+### Output for 5 Rows
+![Output for 5 Rows](screenshots/output_rows_5.png)
 
 ---
 
@@ -73,5 +55,9 @@ This project can be extended to include different types of patterns such as star
 Through this project, I learned how to use nested loops efficiently in C programming. I gained a better understanding of loop control, user input handling, and pattern logic. I also learned how to organize a small project, write clean code, and document it properly using a README file and GitHub.
 
 ---
+
 ## How to Run the Program
-1. Compile the program:
+
+```bash
+gcc pattern.c
+./a.out
