@@ -26,15 +26,9 @@ The aim of this project is to create a Pattern Logic Tool that prints number pat
 ---
 
 ## Output Screenshots
-
-### Output for 3 Rows
-![Output for 3 Rows](screenshots/output_rows_3.png)
-
-### Output for 4 Rows
-![Output for 4 Rows](screenshots/output_rows_4.png)
-
-### Output for 5 Rows
-![Output for 5 Rows](screenshots/output_rows_5.png)
+<img width="147" height="50" alt="Screenshot 2026-01-04 at 4 07 43 PM" src="https://github.com/user-attachments/assets/f5ff71cc-662f-4989-a557-166c69cebe48" />
+<img width="138" height="39" alt="Screenshot 2026-01-04 at 4 07 19 PM" src="https://github.com/user-attachments/assets/3ec95b77-2401-4f8a-a33d-57a649c63d06" />
+<img width="134" height="61" alt="Screenshot 2026-01-04 at 4 07 01 PM" src="https://github.com/user-attachments/assets/ec1e52b2-806d-45e3-8388-ddf87a338c69" />
 
 ---
 
